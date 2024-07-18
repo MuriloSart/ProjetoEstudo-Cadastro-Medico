@@ -1,0 +1,7 @@
+  spring:
+    datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      name: api
+      url: jdbc:mysql://localhost:3306/vollmed_api
+      username: root
+      password: admim
