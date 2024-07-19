@@ -5,3 +5,7 @@
       url: jdbc:mysql://localhost:3306/vollmed_api
       username: root
       password: admim
+
+    jpa:
+      show-sql: true
+      properties.hibernate.format_sql: true
